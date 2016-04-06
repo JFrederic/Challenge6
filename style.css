@@ -1,0 +1,146 @@
+body .row{
+  margin-left: 0;
+  padding-left: 0;
+}
+
+
+
+.padding {
+  padding-left: 0;
+}
+
+i{
+  padding-right: 8px;
+}
+
+.margin-bottom{
+  margin-bottom: 0px;
+}
+
+.banniere {
+  background: url(img/intro-bg.jpg) no-repeat;
+  background-size:cover;
+
+
+}
+
+
+.banniere button{
+  width: 130px;
+
+}
+
+
+
+.info-page {
+  text-align: center;
+  padding-top: 250px;
+  padding-bottom: 250px;
+  color:white;
+}
+
+.info-page section h1  {
+  font-size: 50px;
+}
+
+
+.info-page section h2 {
+  font-size: 20px;
+  line-height: 2em;
+
+}
+
+
+
+
+.lien-sociaux ul li {
+
+  padding-right: 10px;
+}
+
+section .barre-info-page {
+  width: 400px;
+
+}
+
+
+/* parti-princiaple */
+
+article {
+  width: 83%;
+  margin: auto;
+  padding: 50px;
+}
+
+.premier-article{
+  background-color: #f8f8f8;
+}
+
+.troisieme-article{
+  background-color: #f8f8f8;
+}
+
+
+.barre-article {
+  margin-left: 0;
+  width: 200px;
+  border: 1px solid grey;
+}
+.taille-image {
+  display: block;
+  width: 100%;
+
+}
+
+.titre-article{
+  margin-bottom: 30px;
+}
+
+.texte-article{
+  font-size: 15px;
+}
+
+/* Pied de page */
+
+.imagefooter{
+  padding:100px;
+  background: url('img/banner-bg.jpg') no-repeat;
+  background-size: cover;
+
+}
+
+
+
+
+.texte-connect h4 {
+  font-size: 30px;
+  color:white;
+}
+.liste-sociaux  li{
+  padding-right: 10px;
+}
+
+
+
+/* Footer */
+
+footer ul{
+  padding-top: 40px;
+  padding-bottom: 11px;
+  padding-left: 0;
+
+}
+footer ul li{
+  display: inline;
+  padding-right: 16px;
+}
+
+footer ul li a {
+  color:blue;
+  text-decoration: none;
+
+}
+
+footer p {
+  padding-bottom: 50px;
+}
